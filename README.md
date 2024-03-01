@@ -11,4 +11,5 @@ pkg install git
 rm -rf GREEN-MAX    
 git clone https://github.com/TANJIM-143/GREEN-MAX.git     
 cd GREEN-MAX       
-python MAX.py
+python RNDM.py                                         
+python FILE.py
